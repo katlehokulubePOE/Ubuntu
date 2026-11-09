@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After deployment, add: Sitemap: https://YOUR-REAL-DOMAIN.example/sitemap.xml
+# Replace the placeholder with the website's actual public HTTPS domain.

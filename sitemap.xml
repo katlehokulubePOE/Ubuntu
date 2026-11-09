@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap template for Ubuntu Urban Wear.
+  Replace the placeholder host below with the actual public HTTPS domain before submission.
+  Search engines require absolute URLs; do not publish this placeholder unchanged.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-REAL-DOMAIN.example/index.html</loc></url>
+  <url><loc>https://YOUR-REAL-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-REAL-DOMAIN.example/products.html</loc></url>
+  <url><loc>https://YOUR-REAL-DOMAIN.example/enquiry.html</loc></url>
+  <url><loc>https://YOUR-REAL-DOMAIN.example/contact.html</loc></url>
+</urlset>
